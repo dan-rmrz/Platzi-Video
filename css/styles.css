@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #21C08B;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+header img {
+    width: 200px;
+    margin-left: 10px;
+}
